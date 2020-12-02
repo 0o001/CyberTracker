@@ -1,0 +1,22 @@
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\obj\Debug\CyberTracker.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\obj\Debug\CyberTracker.Properties.Resources.resources
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\obj\Debug\CyberTracker.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\obj\Debug\CyberTracker.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\obj\Debug\CyberTracker.frm_main.resources
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\obj\Debug\CyberTracker.usr_TrackItem.resources
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\bin\Debug\Siber İzleyici.exe.config
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\bin\Debug\Siber İzleyici.exe
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\bin\Debug\Siber İzleyici.pdb
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\obj\Debug\Siber İzleyici.exe
+C:\Users\musta\source\repos\CyberTracker\CyberTracker\obj\Debug\Siber İzleyici.pdb
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\bin\Debug\Siber İzleyici.exe.config
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\bin\Debug\Siber İzleyici.exe
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\obj\Debug\CyberTracker.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\obj\Debug\CyberTracker.frm_main.resources
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\obj\Debug\CyberTracker.Properties.Resources.resources
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\obj\Debug\CyberTracker.usr_TrackItem.resources
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\obj\Debug\CyberTracker.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\obj\Debug\CyberTracker.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\obj\Debug\Siber İzleyici.exe
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\obj\Debug\Siber İzleyici.pdb
+C:\Users\musta\Desktop\CyberTracker\CyberTracker\bin\Debug\Siber İzleyici.pdb
